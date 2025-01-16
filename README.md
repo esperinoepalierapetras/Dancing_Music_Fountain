@@ -3,6 +3,7 @@ Dancing Music Fountain for educational purpsose for The 7th Panhellenic Open Tec
 # Τίτλος Έργου: “Smart Musical Fountain: I save energy for the sustainability of our school”
 After a discussion with the students of our school, about the theme of the 7th Panhellenic Open Technologies in Education Competition, they decided to work on the construction of a musical fountain in the school premises.
 Their idea is inspired by the choreographed Fountain, an impressive water installation of the Stavros Niarchos Foundation Cultural Center.
+
 Μετά από συζήτηση με τους μαθητές του σχολείου μας, για την θεματολογία που πραγματεύεται ο 7ος Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών στην Εκπαίδευση, αποφάσισαν να ασχοληθούν με την κατασκευή ενός μουσικού συντριβανιού στο χώρο του σχολείου. 
 Η ιδέα τους είναι εμπνευσμένη από το χορογραφημένο Σιντριβάνι μια εντυπωσιακή υδάτινη εγκατάσταση του Κέντρου Πολιτισμού Ίδρυμα Σταύρος Νιάρχος. 
 
