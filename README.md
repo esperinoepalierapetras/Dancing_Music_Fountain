@@ -2,6 +2,12 @@
 # Ομάδα έργου: SmartWiseOwl
 # Όνομα Σχολείου: Εσπερινό ΕΠΑΛ Ιεράπετρας
 Διεύθυνση: Εμμανουήλ Λαμπράκη 8, Ιεράπετρα
+# Εκπαιδευτικοί που συμμετέχουν στο έργο:
+Δακανάλη Μαρία. Εκπαιδευτικός Πληροφορικής - ΠΕ86
+Διακάκης Γεώργιος. Εκπαιδευτικός Ηλεκτρολογίας - ΠΕ83
+Λασηθιωτάκης Αντώνιος, Εκπαιδευτικός Ηλεκτρονικής - ΠΕ84
+Μοσχάκης Εμμανουήλ, Εκπαιδευτικός Γεωπονίας - ΠΕ88.01
+Φρονιμάκη Σοφία, Εκπαιδευτικος Γεωπονίας - ΠΕ88.01
 # Dancing_Music_Fountain
 Dancing Music Fountain for educational purpsose for The 7th Panhellenic Open Technologies in Education Competition focuses on the thematic unit of Open Design for a Direct Public Space.
 # Τίτλος Έργου: “Smart Musical Fountain: I save energy for the sustainability of our school”
