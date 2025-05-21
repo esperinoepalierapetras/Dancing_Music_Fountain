@@ -1,6 +1,6 @@
 # Αποθετήριο του σχολείου "Εσπερινό ΕΠΑΛ Ιεράπετρας" και της Ομάδας SmartWiseOwl για την συμμετοχή στον Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση
 # Ομάδα έργου: SmartWiseOwl
-# Όνομα Σχολείου: Εσπερινό ΕΠΑΛ Ιεράπετρας
+# Όνομα Σχολείου: Εσπερινό ΕΠΑΛ Ιεράπετρας και Εργαστηριακό Κέντρο Ιεράπετρας
 Διεύθυνση: Εμμανουήλ Λαμπράκη 8, Ιεράπετρα
 # Εκπαιδευτικοί που συμμετέχουν στο έργο:
 Δακανάλη Μαρία. Εκπαιδευτικός Πληροφορικής - ΠΕ86
@@ -8,6 +8,7 @@
 Λασηθιωτάκης Αντώνιος, Εκπαιδευτικός Ηλεκτρονικής - ΠΕ84
 Μοσχάκης Εμμανουήλ, Εκπαιδευτικός Γεωπονίας - ΠΕ88.01
 Φρονιμάκη Σοφία, Εκπαιδευτικος Γεωπονίας - ΠΕ88.01
+Εργαστηριακό Κέντρο Ιεράπετρας ως βοηθός στην παροχή εξοπλισμού και υλικών
 # Dancing_Music_Fountain
 Dancing Music Fountain for educational purpsose for The 7th Panhellenic Open Technologies in Education Competition focuses on the thematic unit of Open Design for a Direct Public Space.
 # Τίτλος Έργου: “Smart Musical Fountain: I save energy for the sustainability of our school”
@@ -57,3 +58,33 @@ Their idea is inspired by the choreographed Fountain, an impressive water instal
 							
 Συνολική Αξία					307,80 €		
 ![εικόνα](https://github.com/user-attachments/assets/fda1870f-8393-491f-bbbd-8ba8dad292d7)
+
+Κάναμε μια τροποποίηση των υλικών του έργου γιατί θεωρήσαμε το έργο να μην γίνει σε μακέτα αλλά σε πραγματικές συνθήκες του αύλειου χώρου του σχολείου μας.
+ΤΡΟΠΟΠΟΙΗΜΕΝΟΣ ΕΞΟΠΛΙΣΜΟΣ ΓΙΑ ΤΟ ΕΡΓΟ: «Έξυπνο Μουσικό Συντριβάνι: Εξοικονομώ ενέργεια για την αειφορία του σχολείου μας»										
+										
+										
+Α/Α	Προϊόν	Τροποιημένα Προϊόντα	Ποσότητα				Τιμή/ανά τεμάχιο	Τιμή/Ποσότητα	Σύνδεσμος	
+1	Addressable LED Strip WS2812 RGB 30/m LED -5m (IP67)	1	1				19,90 €	19,90 €	https://grobotronics.com/neopixel-digital-rgb-led-weatherproof-strip-30-m-led-1m.html?srsltid=AfmBOoquOxwO7SyTMKibvSAlatDTensowLkGEGdXYe-YeT9p2U4DFUNf	
+2	Mini Brushless Water Pump 12V DC 240L/h	 Water Pump 12V	3				27,00 €	81,00 €	ΚΑΜΙΝΟΓΙΑΝΝΑΚΗΣ ΚΑΙ ΣΙΑ Ο.Ε.	
+3	Waveshare Αισθητήρας Ήχου		2				4,80 €	9,60 €	https://grobotronics.com/waveshare-sound-sensor.html	
+4	Arduino 4 Relays Shield		2				29,90 €		https://grobotronics.com/arduino-4-relays-shield.html	
+5	Arduino Uno Rev3, με καλώδιο USB, JumperWires Male to Male, Πλακέτα δοκιμών		1				35,70 €	35,70 €	https://grobotronics.com/arduino-uno-rev3.html	
+6	Arduino Mega 2560 Rev3, με καλώδιο USB, JumperWires Male to Male, Πλακέτα δοκιμών		1				57,80 €	57,80 €	https://grobotronics.com/arduino-mega-2560-rev3.html	
+7	Σωλήνας PVC Φ 25	Σωληνώσεις Κεντρικό Collecter, Βάνες	1				100,00 €	100,00 €	ΚΑΜΙΝΟΓΙΑΝΝΑΚΗΣ ΚΑΙ ΣΙΑ Ο.Ε.	
+8	Σωλήνας PVC Φ 20									
+9	Silicone Tube Transparent 7x10mm - per meter									
+10	Electrolytic Capacitor 16V 1000uF		7				0,15 €	1,05 €	https://grobotronics.com/electrolytic-capacitor-16v-1000uf.html	
+11	DC Power Jack 5.5 x 2.1mm Barrel		2				0,50 €	1,00 €	https://grobotronics.com/dc-power-jack-5.5-x-2.1mm-barrel.html	
+12	JST SM 3 Wire Assembly Set (Male/Female)		2				0,60 €	1,20 €	https://grobotronics.com/jst-sm-3-wire-assembly-set-male-female-color.html	
+13	JST SM 3 Wire Assembly Male - 10cm		2				0,30 €	0,60 €	https://grobotronics.com/jst-sm-3-wire-assembly-male-10cm.html	
+14	JST SM 3 Wire Assembly Female - 10cm		2				0,30 €	0,60 €	https://grobotronics.com/jst-sm-3-wire-assembly-female-10cm.html	
+15		Κινητήρας Ανακυκλοφορίας νερού	1				100,00 €	100,00 €	ΚΑΜΙΝΟΓΙΑΝΝΑΚΗΣ ΚΑΙ ΣΙΑ Ο.Ε.	
+16										
+17										
+18										
+19										
+20										
+										
+										
+Συνολική Αξία								408,45 €		
+![εικόνα](https://github.com/user-attachments/assets/9884b03c-6da7-4b7e-bcce-41ae0989af1c)
