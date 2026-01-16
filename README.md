@@ -8,14 +8,14 @@
 Λασηθιωτάκης Αντώνιος, Εκπαιδευτικός Ηλεκτρονικής - ΠΕ84
 Εργαστηριακό Κέντρο Ιεράπετρας ως βοηθός στην παροχή εξοπλισμού και υλικών
 # Dancing_Music_Fountain
-Dancing Music Fountain for educational purpsose for The 7th Panhellenic Open Technologies in Education Competition focuses on the thematic unit of Open Design for a Direct Public Space.
+Dancing Music Fountain for educational purpsose for The 7th and 8th Panhellenic Open Technologies in Education Competition focuses on the thematic unit of Open Design for a Direct Public Space.
 # Τίτλος Έργου: “Smart Musical Fountain: I save energy for the sustainability of our school”
-After a discussion with the students of our school, about the theme of the 7th Panhellenic Open Technologies in Education Competition, they decided to work on the construction of a musical fountain in the school premises.
+After a discussion with the students of our school, about the theme of the 7th and 8th Panhellenic Open Technologies in Education Competition, they decided to work on the construction of a musical fountain in the school premises.
 Their idea is inspired by the choreographed Fountain, an impressive water installation of the Stavros Niarchos Foundation Cultural Center.
 
-Μετά από συζήτηση με τους μαθητές του σχολείου μας, για την θεματολογία που πραγματεύεται ο 7ος Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών στην Εκπαίδευση, αποφάσισαν να ασχοληθούν με την κατασκευή ενός μουσικού συντριβανιού στο χώρο του σχολείου. 
+Μετά από συζήτηση με τους μαθητές του σχολείου μας, για την θεματολογία που πραγματεύεται ο 7ος και 8ος Πανελλήνιος Διαγωνισμός Ανοιχτών Τεχνολογιών στην Εκπαίδευση, αποφάσισαν να ασχοληθούν με την κατασκευή ενός μουσικού συντριβανιού στο χώρο του σχολείου. 
 Η ιδέα τους είναι εμπνευσμένη από το χορογραφημένο Σιντριβάνι μια εντυπωσιακή υδάτινη εγκατάσταση του Κέντρου Πολιτισμού Ίδρυμα Σταύρος Νιάρχος. 
-# Μαθητές που συμμετείχαν στο έργο:
+# Μαθητές που συμμετείχαν στο έργο στον 7ο Παννελήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών:
 1.Καρασούλου Ειρήνη , Β Πληροφορικής
 2.Γιανναδάκης Γεώργιος, Β Ηλεκτρολογίας
 3.Μεταξάκης Νικόλαος, Β Ηλεκτρολογίας
@@ -25,6 +25,36 @@ Their idea is inspired by the choreographed Fountain, an impressive water instal
 7.Κλουβάτου Μαρία, Γ Πληροφορικής
 8.Παντελάκη Νεκταρία, Γ Πληροφορικής
 9. Λούλε Κιάνι, Γ Πληροφορικής
+# Μαθητές που συμμετέχουν στο έργο στον 8ο Παννελήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών:
+# Α ΤΑΞΗ:
+1. Βογιατζής Εμμανουήλ
+2. Γκέρα Βιτόρ
+3. Αλναχάλη Μουντάσερ
+4. Ζεμπριελ Άχμεντ
+5. Μουχαμαντ Ασλάμ
+6. Κανακάρης Γεώργιος
+7. Κβοτσκιν Ανατολί
+8. Κορνάρος Εμμανουήλ
+9. Μπαλοθιάρης Δημήτριος
+10. Μπεκέγια Σάμουελ
+11. Σπαθάρος Μηνάς
+12. Πετάσης Μάρκος 
+# Β ΤΟΜΕΑ ΗΛΕΚΤΡΟΛΟΓΙΑΣ - ΠΛΗΡΟΦΟΡΙΚΗΣ & Γ Ειδικότητα Τεχνικός Ηλεκτρολογικών Συστημάτων, Εγκαταστάσεων και Δικτύων του Τομέα Ηλεκτρολογίας και Ειδικότητα Τεχνικός Η/Υ και Δικτύων Η/Υ του Τομέα Πληροφορικής:
+1.Παρασκευοπούλου Ειρήνη , Β Πληροφορικής
+2.Νικολαίδου Σάλτα Αναστασία, Β Πληροφορικής
+3.Ρούσσι Χαμιτ, Β Πληροφορικής
+4.Ρούσσι Ντονικα, Β Πληροφορικής
+5.Αθενάκης Ιωάννης, Β Ηλεκτρολογίας
+6.Δρανδάκης Γεώργιος, Β Ηλεκτρολογίας
+7.Καλύβας Γεώργιος, Β Ηλεκτρολογίας
+8.Καροφυλλάκης Ιωάννης, Β Ηλεκτρολογίας
+9.Μεταξάκης Νικόλαος, Γ Ηλεκτρολογίας
+10.Ντελής Ηλίας, Γ Ηλεκτρολογίας
+11.Ταρτάλας Γεώργιος, Γ Ηλεκτρολογίας
+12.Φαφαλάκης Νικόλαος, Γ Ηλεκτρολογίας
+13.Καρασούλου Ειρήνη, Γ Πληροφορικής
+14.Κουττουκάς Μιχαήλ, Γ Πληροφορικής
+
 # Εκπαιδευτικοί στόχοι του έργου:
 Ο κύριος εκπαιδευτικός στόχος του διαγωνισμού είναι ο διαμοιρασμός της γνώσης ανάμεσα στους μαθητές, τους εκπαιδευτικούς, τα σχολεία και ευρύτερα στην κοινωνία. Ειδικότερα:
 
