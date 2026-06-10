@@ -3,7 +3,7 @@
 #include <DFRobotDFPlayerMini.h>
 
 #define LED_PIN 6
-#define NUM_LEDS 130
+#define NUM_LEDS 129
 
 #define MIC_PIN A0
 #define PUMP1 2
@@ -46,6 +46,8 @@ void setup() {
   Serial.begin(9600);
 
   strip.begin();
+  //periorismos fotinotitas led tainias
+  strip.setBrightness(80);
   strip.clear();
   strip.show();
 
